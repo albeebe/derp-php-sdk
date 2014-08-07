@@ -3,7 +3,7 @@ derp-php-sdk
 
 PHP SDK for the Derp API
 
-```
+```php
 <?php
 
 // You can get your Facebook Access Token at http://derpapp.co/api
